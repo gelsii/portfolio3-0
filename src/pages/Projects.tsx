@@ -2,7 +2,7 @@ import { Card, CardContent, CardHeader } from "../components/ui/card";
 
 const cardItems = [
   {
-    image: "../../public/photos/expenseTracker.png",
+    image: "/photos/expenseTracker.png",
     title: "Expenses Tracker",
     description:
       "A simple yet powerful expense tracker designed to help users manage their finances, monitor income and expenses, and keep track of their spending habits.",
