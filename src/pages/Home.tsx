@@ -1,4 +1,3 @@
-import React, { useContext, useEffect, useRef } from "react";
 import HomeImg from "./../../public/photos/home-photo.jpg";
 import { Button } from "../components/ui/button";
 

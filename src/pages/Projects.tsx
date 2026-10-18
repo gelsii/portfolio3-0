@@ -1,4 +1,3 @@
-import React, { useEffect, useRef } from "react";
 import { Card, CardContent, CardHeader } from "../components/ui/card";
 
 const cardItems = [

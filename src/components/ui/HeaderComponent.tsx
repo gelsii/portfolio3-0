@@ -1,4 +1,3 @@
-import React, { useContext, useMemo } from "react";
 import { Button } from "./button";
 const navs = ["Home", "Projects", "Skills"] as const;
 

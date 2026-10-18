@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./styles/App.css";
 import HeaderComponent from "./components/ui/HeaderComponent";
 import Home from "./pages/Home";

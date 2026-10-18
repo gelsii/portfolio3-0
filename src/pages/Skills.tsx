@@ -1,6 +1,5 @@
-import React, { useContext, useEffect, useRef } from "react";
-import { Card, CardContent, CardHeader } from "../components/ui/card";
-import { Home } from "lucide-react";
+
+import { Card,  CardHeader } from "../components/ui/card";
 
 const witdhAndHeightIcons = 40 as const;
 
